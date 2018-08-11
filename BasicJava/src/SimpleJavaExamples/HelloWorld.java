@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello to Java world Ramesh WellDone");
 		System.out.println("This is your first step towards a big milestone");
 		System.out.println("Long way to go");
+		System.out.println("All the best");
 	}
 
 }

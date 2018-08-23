@@ -6,7 +6,7 @@ public class CubeMain {
 		cube1.Length = 5;
 		cube1.Breadth = 10;
 		cube1.Height = 15;
-		System.out.println(cube1.CubeVolume());
+		System.out.print(cube1.CubeVolume());
 	}
 
 }
